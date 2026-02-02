@@ -46,3 +46,18 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/arsalan-khatri/ML-Based-Cyber-Threat-Detection.git
+
+```
+## 📁 Repository Structure
+
+```plaintext
+ML-Based-Cyber-Threat-Detection/
+├── datasets/                   # Raw & processed dataset files
+├── insights/                   # EDA & analysis outputs
+├── models/                     # Saved ML models / artifacts
+├── preprocessing.ipynb         # Data cleaning & feature processing
+├── machine_learning.ipynb      # Model training and evaluation
+├── model_building.ipynb        # Additional model experiments
+├── model_testing.ipynb         # Performance testing notebooks
+├── requirements.txt            # Python dependencies
+└── README.md
