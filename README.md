@@ -34,11 +34,8 @@ With the increasing number of cyber threats, traditional firewall systems are of
 ---
 
 ## 📂 Dataset
-The project is trained on the standard **NSL-KDD / CICIDS** dataset (Modify this based on your actual dataset), which includes various types of attacks such as:
-* **DoS (Denial of Service)**
-* **Probe**
-* **R2L (Remote to Local)**
-* **U2R (User to Root)**
+The project is trained on the standard **Darknet** dataset (Modify this based on your actual dataset), which includes various types of attacks such as:
+* **Darknet DataSet**
 
 ---
 
