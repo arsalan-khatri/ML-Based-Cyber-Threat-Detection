@@ -59,5 +59,4 @@ ML-Based-Cyber-Threat-Detection/
 ├── machine_learning.ipynb      # Model training and evaluation
 ├── model_building.ipynb        # Additional model experiments
 ├── model_testing.ipynb         # Performance testing notebooks
-├── requirements.txt            # Python dependencies
 └── README.md
