@@ -48,5 +48,4 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/arsalan-khatri/ML-Based-Cyber-Threat-Detection.git](https://github.com/arsalan-khatri/ML-Based-Cyber-Threat-Detection.git)
-cd ML-Based-Cyber-Threat-Detection
+git clone https://github.com/arsalan-khatri/ML-Based-Cyber-Threat-Detection.git
